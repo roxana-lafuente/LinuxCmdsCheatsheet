@@ -50,8 +50,5 @@
 #### Load kernel module named “KERNEL_MODULE_HERE”
 ```modprobe KERNEL_MODULE_HERE```
 
-#### List all loaded kernel modules, except built-in modules
-```lsmod```
-
 #### Unload kernel module named “KERNEL_MODULE_HERE”
 ```modprobe -r KERNEL_MODULE_HERE```
