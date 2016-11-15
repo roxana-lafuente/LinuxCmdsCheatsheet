@@ -13,8 +13,11 @@
 #### See all branches
 ```git show-branch -a```
 
-#### Change to branch X
+#### Create and switch to branch X
 ```git checkout -b X```
+
+#### Switch to branch X
+```git checkout X```
 
 
 
