@@ -5,6 +5,22 @@
 
 
 
+## GIT
+
+#### See current branch
+```git show-branch```
+
+#### See all branches
+```git show-branch -a```
+
+#### Change to branch X
+```git checkout -b X```
+
+
+
+
+
+
 
 ## FIND
 
@@ -13,6 +29,18 @@
 
 #### Find filenames which contain “text-to-find-here” in the whole disk
 ```find / -name '*text-to-find-here*'```
+
+
+
+
+
+
+
+## DRIVES
+
+#### List the partition tables for devices mentioned in  /proc/partitions.
+
+```sudo fdisk -l```
 
 
 
