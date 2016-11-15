@@ -56,6 +56,10 @@
 #### See status of “network-interface-here”
 ```ethtool network-interface-here```
 
+#### See route table
+```route -n```
+```ip route show```
+
 
 
 
