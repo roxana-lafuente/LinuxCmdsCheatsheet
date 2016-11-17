@@ -87,3 +87,14 @@
 
 #### Unload kernel module named “KERNEL_MODULE_HERE”
 ```modprobe -r KERNEL_MODULE_HERE```
+
+
+
+
+
+
+
+# PROCESSES
+
+#### Kill all processes by NAME
+```pkill -f NAME```
